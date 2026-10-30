@@ -4,7 +4,7 @@ A static, mobile-friendly portfolio built with HTML, CSS, JavaScript, SVG diagra
 
 ## Files to upload
 
-Upload **everything in this folder**, not the ZIP file itself, so `index.html` is at the root of the GitHub repository.
+Upload **everything in this folder**, not the ZIP file itself, so `index.html` is at the root of the GitHub repository .
 
 ```
 index.html
